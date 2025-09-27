@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Courses After 12th</title>
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css"/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"/>
+</head>
+<body>
+<header>
+  <h1 class="animate__animated animate__fadeInDown">Bridging Young Minds</h1>
+  <nav>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="after10th.html">Courses After 10th</a></li>
+      <li><a href="after12th.html" class="active">Courses After 12th</a></li>
+      <li><a href="careers.html">Careers</a></li>
+      <li><a href="scholarships.html">Scholarships</a></li>
+      <li><a href="resources.html">Resources</a></li>
+      <li><a href="about.html">About Us</a></li>
+    </ul>
+  </nav>
+</header>
+
+<main>
+<h2 class="animate__animated animate__fadeInUp">📗 Courses After 12th</h2>
+<p>After completing 12th grade, students can choose undergraduate or diploma courses based on stream, interest, and career goals. Here’s a structured list from entry-level to professional courses:</p>
+
+<div class="cards">
+
+<div class="card animate__animated animate__zoomIn">
+  <i class="fas fa-tools fa-2x"></i>
+  <h4>Vocational / Diploma Courses</h4>
+  <p><strong>Options:</strong> Diploma in Engineering, ITI, Hotel Management, Fashion Designing, Animation, Travel & Tourism, Retail Management.</p>
+  <p><strong>Career Paths:</strong> Technician, Animator, Hotel Manager, Designer, Retail Specialist.</p>
+</div>
+
+<div class="card animate__animated animate__zoomIn">
+  <i class="fas fa-theater-masks fa-2x"></i>
+  <h4>Arts / Humanities</h4>
+  <p><strong>Courses:</strong> B.A in Literature, Sociology, Psychology, Journalism, Mass Communication, Fine Arts, Social Work.</p>
+  <p><strong>Career Paths:</strong> Teacher, Social Worker, Journalist, Designer, Psychologist.</p>
+</div>
+
+<div class="card animate__animated animate__zoomIn">
+  <i class="fas fa-coins fa-2x"></i>
+  <h4>Commerce</h4>
+  <p><strong>Courses:</strong> B.Com, BBA, CA, CS, CFA, Economics, Business Analytics.</p>
+  <p><strong>Career Paths:</strong> Accountant, Financial Analyst, Banker, Business Manager, Entrepreneur.</p>
+</div>
+
+<div class="card animate__animated animate__zoomIn">
+  <i class="fas fa-flask fa-2x"></i>
+  <h4>Science (General)</h4>
+  <p><strong>Courses:</strong> B.Sc (Physics, Chemistry, Biology, Mathematics), B.Sc Computer Science, Environmental Science, Agriculture.</p>
+  <p><strong>Career Paths:</strong> Researcher, Lab Scientist, Environmentalist, Agricultural Expert, Data Analyst.</p>
+</div>
+
+<div class="card animate__animated animate__zoomIn">
+  <i class="fas fa-user-md fa-2x"></i>
+  <h4>Medical & Paramedical</h4>
+  <p><strong>Courses:</strong> MBBS, BDS, BPT, Nursing, Pharmacy, Physiotherapy, Biotechnology.</p>
+  <p><strong>Career Paths:</strong> Doctor, Dentist, Physiotherapist, Pharmacist, Researcher, Lab Technician.</p>
+</div>
+
+<div class="card animate__animated animate__zoomIn">
+  <i class="fas fa-laptop-code fa-2x"></i>
+  <h4>Engineering & Technology</h4>
+  <p><strong>Courses:</strong> B.Tech / BE in Mechanical, Civil, Electrical, Computer Science, AI, Robotics, IT, Electronics, Aerospace.</p>
+  <p><strong>Career Paths:</strong> Engineer, Developer, Researcher, Innovator, Technical Consultant.</p>
+</div>
+
+<div class="card animate__animated animate__zoomIn">
+  <i class="fas fa-globe fa-2x"></i>
+  <h4>Professional & Competitive Courses</h4>
+  <p><strong>Options:</strong> Law (BA LLB), Chartered Accountancy (CA), Company Secretary (CS), CFA, Design, Fine Arts, Aviation, Defense Preparation, Foundation courses for Medical/Engineering exams.</p>
+  <p><strong>Career Paths:</strong> Lawyer, CA, Investment Analyst, Designer, Pilot, Defense Officer, Researcher.</p>
+</div>
+
+</div>
+
+<section class="tips animate__animated animate__fadeInUp">
+<h3>💡 Tips for Choosing After 12th</h3>
+<ul>
+<li>Evaluate your interest, strength, and long-term goals.</li>
+<li>Research colleges, entrance exams, and course duration.</li>
+<li>Consider vocational, professional, or skill-based courses for early career exposure.</li>
+<li>Take online courses or certifications to enhance skills alongside studies.</li>
+<li>Stay updated with scholarship opportunities and competitive exams.</li>
+</ul>
+</section>
+</main>
+
+<footer>
+<p>&copy; 2025 Bridging Young Minds. All Rights Reserved.</p>
+</footer>
+</body>
+</html>
